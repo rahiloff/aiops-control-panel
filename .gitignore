@@ -1,0 +1,11 @@
+# Security
+.env
+*.pem
+aiops-key.pem
+
+# Python files
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
