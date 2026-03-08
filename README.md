@@ -52,22 +52,7 @@ This project integrates modern DevOps tools with Local AI to create an intellige
 ```bash
 git clone [https://github.com/rahiloff/aiops-control-panel.git](https://github.com/rahiloff/aiops-control-panel.git)
 cd aiops-control-panel
-Gemini said
-Kuzhappamilla! Nammukku ippol thanne adipoli oru README.md undakkam. Ee file aanu ningalude project-nte "Mukham" (Face). GitHub-il aaru vannalum aadyam kanunna karyam ithaanu.
 
-VS Code-il ithu cheyyan valare eluppamanu. Thazhe parayunna steps step-by-step aayi cheyyuka:
-
-Step 1: File Undakkuka
-VS Code-il ningalude project folder-nte (aiops-control-panel) left side-il ulla file list-il nokkuka.
-
-Avide "New File" icon click cheyyuka (allengil right-click cheythu "New File" edukuka).
-
-File-nte peru krithyamayi README.md ennu thanne type cheythu Enter adikkuka. (Capital letters aayirikkan shraddhikkuka).
-
-Step 2: Content Paste Cheyyuka
-Ippol open aayi vanna aa blank README.md file-il, thazhe ulla text muzhuvanayi copy cheythu paste cheyyuka:
-
-Markdown
 # AIOps Control Panel 🤖☁️
 
 An Enterprise-Grade, AI-powered DevOps automation and Server Management platform. Built to simplify cloud administration, automate database backups, analyze server logs using local LLMs, and generate Infrastructure as Code (IaC).
